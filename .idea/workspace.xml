@@ -9,7 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a6beb1c-4109-4944-a944-0ce80626f8b5" name="Changes" comment="" />
+    <list default="true" id="3a6beb1c-4109-4944-a944-0ce80626f8b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/barber/controller/AppUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/barber/domain/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/appUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/barber/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/barber/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -58,6 +65,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "aa89b9724a92dd2c01834b746fdd3408",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -159,6 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727297418697</updated>
       <workItem from="1727297420510" duration="2097000" />
+      <workItem from="1727526323843" duration="1393000" />
     </task>
     <servers />
   </component>
