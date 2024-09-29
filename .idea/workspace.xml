@@ -9,14 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a6beb1c-4109-4944-a944-0ce80626f8b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/barber/controller/AppUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/barber/domain/AppUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/appUser.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/barber/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/barber/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="3a6beb1c-4109-4944-a944-0ce80626f8b5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727297418697</updated>
       <workItem from="1727297420510" duration="2097000" />
-      <workItem from="1727526323843" duration="1393000" />
+      <workItem from="1727526323843" duration="1628000" />
     </task>
     <servers />
   </component>
